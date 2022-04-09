@@ -17,4 +17,14 @@ public class GetTitle {
 	
 
 	}
+	public class Configuration1 {
+	
+	public static String driverPath = "D:\\Testing_Application_Software\\Softwares\\chromedriver_win32\\chromedriver.exe";
+	
+	public static String appUrl = "https://www.facebook.com/signup";
+	
+	public static String screenshotPath = "D:\\Testing_Application_Software\\Softwares\\eclipse-jee-photon-R-win32-x86_64\\Screenshot\\image_";
+	
+	public static String excelPath = "D:\\Testing_Application_Software\\Softwares\\eclipse-jee-photon-R-win32-x86_64\\Testing.xlsx";
+}
 }
